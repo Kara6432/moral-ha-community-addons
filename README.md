@@ -555,19 +555,6 @@ Open source password management solution
 
 [:books: Vaultwarden (Bitwarden) add-on documentation][addon-doc-bitwarden]
 
-### &#10003; [Whisparr][addon-whisparr]
-
-![Latest Version][whisparr-version-shield]
-![Supports armhf Architecture][whisparr-armhf-shield]
-![Supports armv7 Architecture][whisparr-armv7-shield]
-![Supports aarch64 Architecture][whisparr-aarch64-shield]
-![Supports amd64 Architecture][whisparr-amd64-shield]
-![Supports i386 Architecture][whisparr-i386-shield]
-
-Whisparr is an adult video collection manager for Usenet and BitTorrent users
-
-[:books: Whisparr add-on documentation][addon-doc-whisparr]
-
 ### &#10003; [WireGuard][addon-wireguard]
 
 ![Latest Version][wireguard-version-shield]
@@ -711,7 +698,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: UniFi Network Application][unifi-issue]
 - [Open an issue for the add-on: Uptime Kuma][uptime-kuma-issue]
 - [Open an issue for the add-on: Vaultwarden (Bitwarden)][bitwarden-issue]
-- [Open an issue for the add-on: Whisparr][whisparr-issue]
 - [Open an issue for the add-on: WireGuard][wireguard-issue]
 - [Open an issue for the add-on: Z-Wave JS UI][zwave-js-ui-issue]
 - [Open an issue for the add-on: ZeroTier One][zerotier-issue]
